@@ -51,7 +51,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
 
       >
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        As a software engineering college student, my life is a whirlwind of coding, classes, and caffeine. My passion for technology isn't just about getting good grades; it's about diving deep into the heart of how we can use software to solve real-world problems. I'm driven by the endless possibilities that coding offers, the beauty of a well-structured algorithm, and the thrill of debugging code until it runs flawlessly.
 
       </motion.p>
 
