@@ -48,7 +48,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Android Studio Developer",
       icon: mobile,
     },
     {
@@ -75,16 +75,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
@@ -109,10 +101,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
