@@ -9,6 +9,7 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
+import springboot from "./tech/springboot.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -20,6 +21,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aws from "./tech/aws.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -32,6 +34,8 @@ import collins from "./company/collins.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import mygym from "./myGym.png";
+import roomba from "./roomba.png";
 
 export {
   logo,
@@ -45,6 +49,7 @@ export {
   css,
   docker,
   figma,
+  springboot,
   git,
   html,
   javascript,
@@ -56,12 +61,15 @@ export {
   typescript,
   threejs,
   meta,
+  aws,
   shopify,
   starbucks,
   tesla,
   isu,
   collins,
   carrent,
+  roomba,
   jobit,
   tripguide,
+  mygym,
 };

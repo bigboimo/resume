@@ -14,13 +14,17 @@ import {
     mongodb,
     git,
     figma,
+    springboot,
     docker,
     meta,
     starbucks,
     tesla,
+    aws,
     collins,
     isu,
     shopify,
+    mygym,
+    roomba,
     carrent,
     jobit,
     tripguide,
@@ -87,8 +91,16 @@ import {
       icon: nodejs,
     },
     {
+      name: "Spring Boot",
+      icon: springboot,
+    },
+    {
       name: "MongoDB",
       icon: mongodb,
+    },
+    {
+      name: "Aws",
+      icon: aws,
     },
     {
       name: "Three JS",
@@ -136,46 +148,46 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Mohamed has shown an aptitude for solving challenging problems and a willingness to investigate new technologies. He also also has a positive attitude and an excellent rapport with his coworkers.",
+      name: "Chris Gili",
+      designation: "Senior Engineering Manager",
+      company: "Collins Aerospace an RTX business",
+      image: "https://media.licdn.com/dms/image/C5603AQG-gKJJy4RSuQ/profile-displayphoto-shrink_800_800/0/1594410092454?e=1716422400&v=beta&t=flBmrstXBnOrv1q3QJLDZVdn1L44rC2sknrwRfvnw5s",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Moe possesses an exceptional level of curiosity and inquisitiveness, always eager to solve problems. What I admire most about working with him is his remarkable ambition and how seamlessly he integrates with the team.",
+      name: "Akhilesh Nevatia",
+      designation: "SWE",
+      company: "Palantir Technologies",
+      image: "https://media.licdn.com/dms/image/D5603AQGal0a-Xzldsw/profile-displayphoto-shrink_800_800/0/1700697358577?e=1716422400&v=beta&t=gtfVrfYHrVH1l5hsz_l729GCg9ysHhtB66Rm1tEbXhM",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Personally, Moe is open and even-tempered. I have never seen him without a smile on his face. Even when our PTK chapter has faced challenges or tight deadlines, Moe appears relaxed and willing to take whatever course corrections are required. He accepts constructive criticism and uses it to help improve the chapter.",
+      name: "Dr. Sondra Gates",
+      designation: "Associate Professor of English",
+      company: "Kirkwood CC",
+      image: "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-6/365773670_2524919654339334_4477076345980728076_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ex-CEChl6dcAX8ICNBr&_nc_ht=scontent-den2-1.xx&oh=00_AfC65WOfOjty-pyq8Puk2aiLMMtKqDc9axwazgy4zbTZTA&oe=65FE004D",
     },
   ];
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "CyFinance",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Android application that allows users to securely track their finances with features including financial goals, income and loan tracker, networth calculator, and JWT tokens.",
       tags: [
         {
-          name: "react",
+          name: "Android Studio",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "SpringBoot",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Hibernate",
           color: "pink-text-gradient",
         },
       ],
@@ -183,46 +195,46 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "myGym",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "An interactive gym website that provides users with a modern and efficient interface. Sign up feature and contact us are included.",
       tags: [
         {
-          name: "react",
+          name: "Javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "HTML",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: mygym, 
+      source_code_link: "https://github.com/bigboimo/myGym.git",
     },
     {
-      name: "Trip Guide",
+      name: "PirateShip",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "IOT project featuring a Pirate ship with the destination being a treasure island. However, the journey is treacherous and obstacles are plenty. The ship's mission is to find the island without falling into a pit or hitting obstacles.",
       tags: [
         {
-          name: "nextjs",
+          name: "Embedded C",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "CCStudio",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "PuTTY",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: roomba,
+      source_code_link: "https://github.com/bigboimo/PirateShip.git",
     },
   ];
   
