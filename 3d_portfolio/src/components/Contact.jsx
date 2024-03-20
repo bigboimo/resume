@@ -28,9 +28,6 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    //Template ID: template_qkhwcml
-    //Service ID: service_9v0s46n
-    //Pub key: 6395LDQ9BrG4H0PAG
     emailjs.send(
         'service_9v0s46n',
         'template_ya5rzm7',

@@ -151,7 +151,7 @@ import {
       "Mohamed has shown an aptitude for solving challenging problems and a willingness to investigate new technologies. He also also has a positive attitude and an excellent rapport with his coworkers.",
       name: "Chris Gili",
       designation: "Senior Engineering Manager",
-      company: "Collins Aerospace an RTX business",
+      company: "Collins Aerospace",
       image: "https://media.licdn.com/dms/image/C5603AQG-gKJJy4RSuQ/profile-displayphoto-shrink_800_800/0/1594410092454?e=1716422400&v=beta&t=flBmrstXBnOrv1q3QJLDZVdn1L44rC2sknrwRfvnw5s",
     },
     {
