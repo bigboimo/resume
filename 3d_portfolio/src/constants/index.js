@@ -31,6 +31,7 @@ import {
   threejs,
   java,
   python,
+  mysql,
 } from "../assets";
 
 export const navLinks = [
@@ -92,10 +93,13 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
-
   {
     name: "MongoDB",
     icon: mongodb,
+  },
+  {
+    name: "MySQL",
+    icon: mysql,
   },
   {
     name: "Spring Boot",
@@ -112,10 +116,6 @@ const technologies = [
   {
     name: "Figma",
     icon: figma,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "HTML 5",
