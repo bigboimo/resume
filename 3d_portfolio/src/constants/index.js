@@ -106,11 +106,11 @@ const technologies = [
     icon: aws,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
   },
   {
@@ -184,7 +184,7 @@ const testimonials = [
     designation: "Senior Engineering Manager",
     company: "Collins Aerospace",
     image:
-      "https://media.licdn.com/dms/image/C5603AQG-gKJJy4RSuQ/profile-displayphoto-shrink_800_800/0/1594410092454?e=1716422400&v=beta&t=flBmrstXBnOrv1q3QJLDZVdn1L44rC2sknrwRfvnw5s",
+      "https://media.licdn.com/dms/image/D4E35AQH6XcsZ1ftA5w/profile-framedphoto-shrink_100_100/0/1718504276350?e=1720731600&v=beta&t=vBJiIyxQPkrtJU8_G1SMdoUBAzRf2teGBa5p_YcTaVk",
   },
   {
     testimonial:
@@ -193,7 +193,7 @@ const testimonials = [
     designation: "SWE",
     company: "Palantir Technologies",
     image:
-      "https://media.licdn.com/dms/image/D5603AQGal0a-Xzldsw/profile-displayphoto-shrink_800_800/0/1700697358577?e=1716422400&v=beta&t=gtfVrfYHrVH1l5hsz_l729GCg9ysHhtB66Rm1tEbXhM",
+      "https://media.licdn.com/dms/image/D5603AQGal0a-Xzldsw/profile-displayphoto-shrink_100_100/0/1700697358577?e=1725494400&v=beta&t=nc0rHzXnBui2Hq1hv-Xv5HzP4ZV0EeKqiAVxki680Wk",
   },
   {
     testimonial:
@@ -202,7 +202,7 @@ const testimonials = [
     designation: "Associate Professor of English",
     company: "Kirkwood CC",
     image:
-      "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-6/365773670_2524919654339334_4477076345980728076_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ex-CEChl6dcAX8ICNBr&_nc_ht=scontent-den2-1.xx&oh=00_AfC65WOfOjty-pyq8Puk2aiLMMtKqDc9axwazgy4zbTZTA&oe=65FE004D",
+      "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/365773670_2524919654339334_4477076345980728076_n.jpg?stp=c0.64.200.200a_dst-jpg_p200x200&_nc_cat=111&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=33rFSqCUV8YQ7kNvgGjEkBR&_nc_ht=scontent-lga3-1.xx&oh=00_AYAd5u2LEHTwHIJSgHx40mkwk0gNsu-Cuoq2RKgNSRF8gg&oe=668CBE0F",
   },
 ];
 
@@ -213,8 +213,8 @@ const projects = [
       "Android application that allows users to securely track their finances with features including financial goals, income and loan tracker, networth calculator, and JWT tokens.",
     tags: [
       {
-        name: "Android Studio",
-        color: "blue-text-gradient",
+        name: "Java",
+        color: "cyan-text-gradient",
       },
       {
         name: "SpringBoot",
@@ -224,9 +224,13 @@ const projects = [
         name: "Hibernate",
         color: "pink-text-gradient",
       },
+      {
+        name: "Android Studio",
+        color: "blue-text-gradient",
+      },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/bigboimo/CyFinance",
   },
   {
     name: "myGym",
